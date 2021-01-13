@@ -1,0 +1,3 @@
+# Project exclude paths
+/helloweb/target/
+/out/
